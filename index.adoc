@@ -1,0 +1,36 @@
+= Introduction to Machine Learning
+Jeff Thuong
+:revealjsdir: cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:imagesdir: img
+:icons: font
+:title-slide-transition: zoom
+:title-slide-transition-speed: fast
+:revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js@3.9.2
+:revealjs_history: true
+:revealjs_parallaxBackgroundImage: img/background.jpg
+:revealjs_parallaxBackgroundSize: 2100px 1100px
+
+
+== Learning New Words
+image::learning_story_step1.svg[Static,80%]
+
+== Trying to create a model
+image::learning_story_step2.svg[Static,80%]
+
+== Improving the model
+image::learning_story_step3.svg[Static,80%]
+
+== Checking the model
+image::learning_story_step4a.svg[Static,80%]
+
+== Checking the model
+image::learning_story_step4b.svg[Static,80%]
+
+== Improving the model again
+image::learning_story_step3.svg[Static,80%]
+
+== Checking the model again
+image::learning_story_step4b.svg[Static,80%]
+
+== Kid knows what a car is!
+image::learning_story_step5.svg[Static,60%]
