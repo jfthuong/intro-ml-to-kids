@@ -11,26 +11,60 @@ Jeff Thuong
 :revealjs_parallaxBackgroundSize: 2100px 1100px
 
 
-== Learning New Words
+== How Kids Learn new words
+
+Let's follow the steps of a baby!
+
+=== Learning New Words
 image::learning_story_step1.svg[Static,80%]
 
-== Trying to create a model
+=== Trying to create a model
 image::learning_story_step2.svg[Static,80%]
 
-== Improving the model
+=== Improving the model
 image::learning_story_step3.svg[Static,80%]
 
-== Checking the model
+=== Checking the model
 image::learning_story_step4a.svg[Static,80%]
 
-== Checking the model
+=== Checking the model
 image::learning_story_step4b.svg[Static,80%]
 
-== Improving the model again
+=== Improving the model again
 image::learning_story_step3.svg[Static,80%]
 
-== Checking the model again
+=== Checking the model again
 image::learning_story_step4b.svg[Static,80%]
 
-== Kid knows what a car is!
+=== Kid knows what a car is!
 image::learning_story_step5.svg[Static,60%]
+
+
+== How Computers Learn new words
+
+This is the same for Computers!
+
+=== Learning New Words
+image::machine_learning_step1.svg[Static,80%]
+
+=== Trying to create a model
+image::machine_learning_step2.svg[Static,80%]
+
+=== Improving the model
+image::machine_learning_step3.svg[Static,80%]
+
+=== Checking the model
+image::machine_learning_step4.svg[Static,80%]
+
+=== Improving the model again
+image::machine_learning_step3.svg[Static,80%]
+
+=== Checking the model again
+image::machine_learning_step4.svg[Static,80%]
+
+=== Computer knows what a car is!
+image::machine_learning_step5.svg[Static,60%]
+
+
+== How to send pictures?
+image::machine_learning_datasets.svg[Static,60%]
