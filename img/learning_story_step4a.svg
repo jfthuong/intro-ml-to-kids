@@ -9,7 +9,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="learning_story_step4a.svg"
+   sodipodi:docname="learning_story - step4a.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
@@ -18,6 +18,12 @@
    width="983.06531mm">
   <defs
      id="defs2">
+    <rect
+       id="rect1381"
+       height="73.28502"
+       width="73.28502"
+       y="208.09624"
+       x="-17.387986" />
     <clipPath
        id="Clip_1">
       <path
@@ -2819,19 +2825,18 @@
     </clipPath>
   </defs>
   <sodipodi:namedview
-     inkscape:snap-page="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
+     inkscape:window-y="395"
+     inkscape:window-x="2992"
      inkscape:window-height="1057"
      inkscape:window-width="1853"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1245.0241"
-     inkscape:cx="1471.4379"
-     inkscape:zoom="0.081193232"
+     inkscape:cy="3270.1827"
+     inkscape:cx="871.88802"
+     inkscape:zoom="0.1148801"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -2855,13 +2860,6 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <rect
-       y="-251.15656"
-       x="-448.14105"
-       height="736.24384"
-       width="983.06531"
-       id="rect1367"
-       style="fill:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.78236" />
     <g
        style="fill:none;stroke:#000000"
        id="g4108-3"
@@ -3474,5 +3472,33 @@
         </g>
       </g>
     </g>
+    <g
+       transform="translate(-3.257112,-19.542672)"
+       id="g1389">
+      <path
+         style="fill:#000000;stroke-width:0.524838"
+         d="m 88.035999,133.40922 c 3.125232,3.66692 0.619267,9.73952 -4.200666,10.17947 -7.216148,0.65867 -9.550486,-9.07549 -2.858885,-11.92162 2.039881,-0.86768 5.57988,0.006 7.059551,1.74215 z m -6.240074,1.14419 c -2.513775,1.0143 -2.421088,4.9034 0.1388,5.82665 1.668298,0.60219 2.516575,0.38712 3.657029,-0.92539 2.193878,-2.52495 -0.634437,-6.1769 -3.795829,-4.90126 z m -10.124953,0.42572 c 8.221302,7.63457 -0.334987,21.36526 -10.896237,17.48562 -9.575181,-3.51739 -9.089347,-16.55156 0.738314,-19.8086 2.671695,-0.88544 8.020035,0.33762 10.157923,2.32298 z m -7.503018,0.20869 c -8.18365,0.41571 -10.005577,11.778 -2.339045,14.58688 6.290574,2.30443 12.297528,-4.16206 9.385476,-10.10372 -1.566501,-3.19633 -3.844679,-4.6458 -7.046431,-4.48316 z M 11.39464,120.98146 c 9.346747,5.59344 16.58909,16.6914 17.734012,27.175 l 0.514377,4.71003 3.030647,-0.74811 c 13.797125,-3.40572 27.428452,7.6433 26.771805,21.7003 -0.0768,1.64332 0.12682,3.08568 0.452367,3.20527 1.673491,0.61475 7.092341,7.29793 8.692642,10.72081 10.62049,22.71573 -11.999977,47.33226 -35.546012,38.68276 l -2.908584,-1.06846 -1.841433,1.90467 c -11.047617,11.42706 -30.0463959,12.45367 -42.332585,2.28741 -1.731762,-1.43296 -3.439608,-2.84077 -3.795199,-3.12851 -0.429556,-0.34757 -1.939908,0.319 -4.500642,1.98623 -25.494803,16.5993 -60.451842,-1.71587 -61.315012,-32.12501 l -0.10817,-3.81115 -2.17719,-0.38316 c -32.320873,-5.68802 -37.707663,-49.25887 -7.76691,-62.82277 4.99205,-2.26155 5.59493,-2.69283 7.13918,-5.10758 12.00408,-18.77084 40.183318,-21.41379 56.37134,-5.28706 l 2.758535,2.7481 5.185995,-2.25742 c 10.862876,-4.72839 24.0990788,-4.09156 33.640837,1.61865 z M -3.3943,119.14984 c -7.004324,-0.83425 -18.311913,1.9618 -22.813979,5.64127 -1.657721,1.35482 -1.68904,1.34299 -3.919555,-1.48468 -14.048552,-17.80914 -44.312053,-15.42292 -55.135503,4.34741 -1.01317,1.8506 -1.57479,2.24446 -4.53813,3.18219 -30.381713,9.61435 -25.841533,54.67496 5.89785,58.53544 1.76379,0.21446 3.22601,0.44105 3.24933,0.50343 0.0235,0.0623 0.008,1.94606 -0.035,4.18594 -0.59484,31.25867 36.305624,49.08772 60.455531,29.21009 2.433244,-2.00274 1.929126,-2.11111 4.880393,1.04885 11.5693513,12.38714 30.944654,12.39369 42.19165,0.0143 l 2.221745,-2.44542 5.664592,1.78955 c 27.002335,8.53068 46.293494,-26.6784 23.9603,-43.73064 l -2.470551,-1.88636 0.142245,-3.67362 C 56.925232,159.70108 42.755005,150.16495 29.671107,156.429 c -2.133598,1.02149 -3.369694,1.35076 -3.349343,0.89221 0.01771,-0.39971 0.09249,-1.71103 0.166207,-2.91403 0.678681,-11.07607 -6.085952,-24.30724 -15.277161,-29.88101 -1.3832227,-0.83886 -2.9209928,-1.78977 -3.4172145,-2.11323 -1.3897174,-0.90576 -8.28768741,-2.91763 -11.1878965,-3.263 z"
+         id="path7646-5" />
+      <text
+         xml:space="preserve"
+         style="font-size:27.7287px;line-height:0;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';letter-spacing:-0.0115536px;word-spacing:0px;stroke-width:0.57768"
+         x="-27.668972"
+         y="169.06621"
+         id="text1375"><tspan
+           sodipodi:role="line"
+           id="tspan1373"
+           x="-27.668972"
+           y="169.06621"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.9715px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.57768">I think</tspan><tspan
+           sodipodi:role="line"
+           x="-27.674749"
+           y="206.0377"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.9715px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.57768"
+           id="tspan1377">it is</tspan></text>
+    </g>
+    <text
+       style="font-family:Calibri;font-size:12.7px;line-height:1.25;letter-spacing:-0.00529167px;word-spacing:0px;-inkscape-font-specification:'Calibri, Normal';white-space:pre;shape-inside:url(#rect1381);"
+       id="text1379"
+       xml:space="preserve" />
   </g>
 </svg>
