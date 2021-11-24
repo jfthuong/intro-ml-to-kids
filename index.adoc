@@ -68,3 +68,23 @@ image::machine_learning_step5.svg[Static,60%]
 
 == How to send pictures?
 image::machine_learning_datasets.svg[Static,60%]
+
+=== Sending pictures as "tables"
+image::machine_learning_feeding_datasets.svg[Static,60%]
+
+=== How many pictures?
+
+[cols="30h,~,~"]
+|===
+|Database | Training Set | Validation Set
+
+a|image::https://i0.wp.com/www.adeveloperdiary.com/wp-content/uploads/2019/09/How-to-prepare-Imagenet-dataset-for-Image-Classification-adeveloperdiary.com-7.jpg[Static,link=https://www.image-net.org/]
+|1 281 167
+|50 000
+
+a|image::https://cocodataset.org/images/coco-logo.png[Static,link=https://cocodataset.org/]
+|118 000
+|5 000
+|===
+
+Actually, ImageNet has *14 million* pictures!!
