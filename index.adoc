@@ -11,6 +11,17 @@ Jeff Thuong
 :revealjs_parallaxBackgroundSize: 2100px 1100px
 
 
+== What is this?
+image::a_car.svg[Static,60%]
+
+=== It's a car
+
+But how do you know?
+
+image::a_car.svg[Static,20%]
+
+\... it's a new image that you have never seen before!
+
 == How Kids Learn new words
 
 Let's follow the steps of a baby!
@@ -40,7 +51,7 @@ image::learning_story_step4b.svg[Static,80%]
 image::learning_story_step5.svg[Static,60%]
 
 
-== How Computers Learn new words
+== How Computers learn "words"
 
 This is the same for Computers!
 
@@ -66,7 +77,7 @@ image::machine_learning_step4.svg[Static,80%]
 image::machine_learning_step5.svg[Static,60%]
 
 
-== How to send pictures?
+== How to send pictures
 image::machine_learning_datasets.svg[Static,60%]
 
 === Sending pictures as "tables"
@@ -89,7 +100,7 @@ a|image::https://cocodataset.org/images/coco-logo.png[Static,link=https://cocoda
 
 Actually, ImageNet has *14 million* pictures!!
 
-== How does it learn exactly?
+== How does it learn exactly
 
 *Example*: How to recognize the number 9?
 
