@@ -88,3 +88,17 @@ a|image::https://cocodataset.org/images/coco-logo.png[Static,link=https://cocoda
 |===
 
 Actually, ImageNet has *14 million* pictures!!
+
+== How does it learn exactly?
+
+*Example*: How to recognize the number 9?
+
+image::9_to_9.svg[Static,50%]
+
+=== An image is cut into pieces
+
+image::bits_of_numbers.png[Static,60%]
+
+=== Neural networks learn from the pieces
+
+image::neural_9_to_9.png[Static,70%, link=https://www.youtube.com/watch?v=aircAruvnKk]
