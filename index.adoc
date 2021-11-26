@@ -77,10 +77,7 @@ image::machine_learning_step4.svg[Static,80%]
 image::machine_learning_step5.svg[Static,60%]
 
 
-== How to send pictures
-image::machine_learning_datasets.svg[Static,60%]
-
-=== Sending pictures as "tables"
+== How to show pictures to computers
 image::machine_learning_feeding_datasets.svg[Static,60%]
 
 === How many pictures?
@@ -98,7 +95,7 @@ a|image::https://cocodataset.org/images/coco-logo.png[Static,link=https://cocoda
 |5 000
 |===
 
-Actually, ImageNet has *14 million* pictures!!
+Actually, ImageNet has *14 millions* pictures!!
 
 == How does it learn exactly
 
